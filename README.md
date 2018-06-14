@@ -13,5 +13,5 @@ lib contains some layers using in this repo
 
 If you have question or some advice, email me 'zhuangyq@pku.edu.cn'
 
-The model will release later
+The model release on 'https://pan.baidu.com/s/14_zNi_m7hjv-sMWjY0D1Hw'
 
